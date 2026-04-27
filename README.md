@@ -2,7 +2,7 @@
 
 > A curated bucket list of the world's most extraordinary destinations, built with Next.js 14.
 
-**Live Demo:** [your-vercel-url.vercel.app]([https://your-vercel-url.vercel.app](https://thetrialproject.vercel.app/))  
+**Live Demo:** ([https://your-vercel-url.vercel.app](https://thetrialproject.vercel.app/))  
 **GitHub:** [github.com/your-username/travel-bucket-list](https://github.com/Kalopsia22/Trial_Project/))
 
 
